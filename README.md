@@ -1,7 +1,6 @@
-# Hi there 👋 I'm Hiba Achiche
+# Hi there 👋
 
-I'm a tech passionate and I love building projects that combine hardware and software.
-
+I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware & software. I love tackling complex algorithms and pushing my limits in AI challenges.
 
 ![strawberry145's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry145&show_icons=true&theme=transparent)
 ![strawberry145's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry145&theme=transparent&show_icons=true&hide_border=true&layout=compact)
