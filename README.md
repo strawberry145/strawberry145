@@ -12,7 +12,7 @@ I'm a tech passionate and I love building projects that combine hardware and sof
 
 ## Tech Stack
 - **Languages:** Python, Java, C++, PHP, JavaScript, C, SQL, Dart, MATLAB
-  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 - **Frontend / Frameworks:**  React, Next.js, Flutter, Laravel 
 - **Backend / Frameworks:**  Spring Boot, .NET (learning), Flask-like patterns
 - **Databases & Cloud:** MongoDB, MySQL, Firebase/Firestore
