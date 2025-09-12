@@ -25,6 +25,11 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 - **Tools & Platforms:** Git, Docker (familiar), Visual Studio, VS Code, Android Studio, Linux (Ubuntu, Kali, ROS)
 
 - **Other:** REST API integration, Unit Testing, Agile/Scrum, ROS, Arduino, IoT prototyping 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## Contact
