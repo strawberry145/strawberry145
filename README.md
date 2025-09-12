@@ -7,8 +7,6 @@ I'm a tech passionate and I love building projects that combine hardware and sof
 ![strawberry145's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry145&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 ![strawberry145's Streak](https://github-readme-streak-stats.herokuapp.com/?user=strawberry145&theme=transparent&hide_border=true)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=strawberry145&repo=github-readme-stats)](https://github.com/strawberry145/github-readme-stats)
 
 ## Tech Stack
 - **Languages:** 
@@ -20,7 +18,7 @@ I'm a tech passionate and I love building projects that combine hardware and sof
 
 - **Backend / Frameworks:** 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
+- 
 - **Databases & Cloud:** 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
