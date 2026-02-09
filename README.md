@@ -10,26 +10,6 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 
 
 
-
-
-
-## Tech Stack
-- **Languages:** 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-  
-- **Frontend / Frameworks:** 
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-- **Backend / Frameworks:** Spring Boot
- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-  
-- **Databases & Cloud:** 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-
-
   ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -76,29 +56,18 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 
 ---
 
-### 🧰 Tools & Design
+### 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+Docker (containerization fundamentals, image & container management),  
+Visual Studio & VS Code (debugging, extensions, productivity workflows),  
+Android Studio (Android app development & emulation),  
+Linux (Ubuntu, Kali Linux, ROS-based environments — shell scripting, system navigation, package management)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strawberry145&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry145&theme=transparent&hide_border=true&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=strawberry145&theme=transparent&hide_border=true)
-
-
-
-
-
-  
-- **Tools & Platforms:** Git, Docker (familiar), Visual Studio, VS Code, Android Studio, Linux (Ubuntu, Kali, ROS)
 
 - **Soft Skills:** Team Leadership, Cross-functional Collaboration, Problem Solving, Rapid Prototyping, Communication
 
