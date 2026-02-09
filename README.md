@@ -90,9 +90,13 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 ![IoT](https://img.shields.io/badge/IoT%20Prototyping-%234ea94b.svg?style=flat&logo=internetofthings&logoColor=white)
 
 
-  
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=darkhub&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&row=1)
 
 
 
