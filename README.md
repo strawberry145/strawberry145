@@ -93,10 +93,6 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&row=1&column=7)
-![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=darkhub&no-frame=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&margin-w=10)
-![Trophies](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=flat&no-frame=true&row=1)
 
 
 
