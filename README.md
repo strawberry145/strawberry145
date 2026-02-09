@@ -72,11 +72,25 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+### 🤝 Soft Skills
+
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-%234B8BBE.svg?style=flat&logo=leaderprice&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Cross--functional%20Collaboration-%23007ACC.svg?style=flat&logo=handshake&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%23F9A03C.svg?style=flat&logo=thinkpad&logoColor=white)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-%2300C4CC.svg?style=flat&logo=prototype&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-%236A5ACD.svg?style=flat&logo=wechat&logoColor=white)
+
+### 🔧 Other Skills & Concepts
+
+![REST API](https://img.shields.io/badge/REST%20API-005571.svg?style=flat&logo=fastapi&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23239120.svg?style=flat&logo=jest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%23E34F26.svg?style=flat&logo=scrumalliance&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20Prototyping-%234ea94b.svg?style=flat&logo=internetofthings&logoColor=white)
 
 
-- **Soft Skills:** Team Leadership, Cross-functional Collaboration, Problem Solving, Rapid Prototyping, Communication
-
-- **Other:** REST API integration, Unit Testing, Agile/Scrum, ROS, Arduino, IoT prototyping 
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=strawberry145&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
