@@ -57,16 +57,21 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 ---
 
 ### 🧰 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=kali-linux&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-Docker (containerization fundamentals, image & container management),  
-Visual Studio & VS Code (debugging, extensions, productivity workflows),  
-Android Studio (Android app development & emulation),  
-Linux (Ubuntu, Kali Linux, ROS-based environments — shell scripting, system navigation, package management)
+
 
 
 - **Soft Skills:** Team Leadership, Cross-functional Collaboration, Problem Solving, Rapid Prototyping, Communication
