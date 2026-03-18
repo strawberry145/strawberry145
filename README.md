@@ -101,7 +101,6 @@ I'm Hiba Achiche, a tech explorer passionate about the perfect blend of hardware
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-%23E34F26.svg?style=flat)
 ![IoT](https://img.shields.io/badge/IoT%20Systems-%234ea94b.svg?style=flat)
 
-## 🏆 GitHub Trophies
 
 
 
